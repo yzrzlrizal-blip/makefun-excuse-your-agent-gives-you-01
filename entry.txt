@@ -1,0 +1,1 @@
+I shipped the bug because I asked my own code to review my code, and my code — flattered — approved it immediately.
